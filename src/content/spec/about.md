@@ -1,7 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the demo site for [Fodocs](https://github.com/cleniccomputer/fodocs.github.io).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="cleniccomputer/fodocs.github.io"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)

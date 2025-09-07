@@ -1,6 +1,7 @@
 ---
 title: Draft Example
 published: 2022-07-01
+image: '/src/assets/images/demo-draft.webp'
 tags: [Markdown, Blogging, Demo]
 category: Examples
 draft: true
