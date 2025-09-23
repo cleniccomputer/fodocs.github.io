@@ -1,8 +1,8 @@
 ---
 title: Apa itu Git dan Kenapa Penting bagi Programmer?
 published: 2023-09-09
-description: Ini adalah postingan kedua blog Astro saya.
-image: '/images/git/git-petanikode.png'
+description: Pelajari dasar-dasar version control dengan Git untuk pemula.
+image: '/images/git/git-vs-github.png'
 tags: [Git, Tutorial]
 category: Development
 draft: false
@@ -94,7 +94,7 @@ Selain itu, berikut ini ada beberapa menfaat yang akan kamu rasakan setelah bisa
 
 Jadi, apakah kamu sudah mengenal git?
 
-- [Tutorial Git #01: Cara Install Git dan Konfigurasi Awal yang harus dilakukan](#)
+- [Tutorial Git #01: Cara Install Git dan Konfigurasi Awal yang harus dilakukan](../git-install/)
 - [Tutorial Git #02: Membuat Repositori Baru dalam Proyek](#)
 - [Tutorial Git #03: Membuat Revisi dan Menyimpannya dengan Git Commit](#)
 - [Tutorial Git #04: Melihat Catatan Log Revisi Git](#)

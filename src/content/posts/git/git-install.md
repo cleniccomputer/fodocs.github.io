@@ -1,7 +1,7 @@
 ---
 title: Cara Install Git dan Konfigurasi Awal yang Harus Dilakukan
 published: 2023-09-09
-description: Ini adalah postingan pertama blog Astro saya.
+description: Pelajari dasar-dasar version control dengan Git untuk pemula.
 image: '/images/git/git-petanikode.png'
 tags: [Git, Tutorial]
 category: Development
@@ -184,5 +184,5 @@ Dengan demikian, Git akan otomatis menggunakan nama main sebagai branch utama.
 
 ## Apa Selanjutnya?
 
-Bagus, kita sudah mempersiapkan semuanya. Selanjutnya kita bisa langsung belajar membuat [repositori git](#).
+Bagus, kita sudah mempersiapkan semuanya. Selanjutnya kita bisa langsung belajar membuat [repositori git](../git-init/).
 
