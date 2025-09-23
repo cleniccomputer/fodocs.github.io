@@ -1,9 +1,14 @@
 # About
-This is the demo site for [Fodocs](https://github.com/cleniccomputer/fodocs.github.io).
+
+Selamat datang di situs dokumentasi yang dibangun dengan **Astro dan menggunakan tema dari fuwari**.
+
+Situs ini merupakan demo dari platform Fodocs untuk membuat dokumentasi yang elegan dan fungsional.
+
+## Fitur
+- Dokumentasi yang mudah dibaca
+- Navigasi yang intuitif
+- Responsif untuk berbagai device
 
 ::github{repo="cleniccomputer/fodocs.github.io"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+*Dibangun dengan ❤️ menggunakan Astro*
